@@ -2,7 +2,6 @@
 ---
 
 ## **目录结构**
-我们将在以下文件中实现需求：
 
 1. **Contracts/InterviewInterface.php** (接口类)
 2. **Abstracts/BaseInterview.php** (抽象类)
